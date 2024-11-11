@@ -2,6 +2,7 @@
 #include <cmath>
 #include <windows.h>
 using namespace std;
+// програма перевірки належності точки
 int main()
 {
 	SetConsoleOutputCP(1251);
